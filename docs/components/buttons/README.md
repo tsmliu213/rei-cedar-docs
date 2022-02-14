@@ -188,6 +188,7 @@
 <cdr-doc-table-of-contents-shell tab-name="Overview">
 
 # Overview
+
 ## Primary
 
 Use primary buttons for actions to complete a task or to move forward in a process such as &quot;Add to cart.&quot; There is only one primary action per major page section.
@@ -200,8 +201,6 @@ Use primary buttons for actions to complete a task or to move forward in a proce
 ```
 
 </cdr-doc-example-code-pair>
-
-
 
 ## Secondary
 
@@ -336,7 +335,6 @@ For buttons that trigger asynchronous actions, use the `click` event and dynamic
 
 </cdr-doc-example-code-pair>
 
-
 ## Full Width
 
 Displays at full width of its container.
@@ -353,7 +351,6 @@ Displays at full width of its container.
 ```
 
 </cdr-doc-example-code-pair>
-
 
 ## Button With Link Tag
 
