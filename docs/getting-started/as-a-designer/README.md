@@ -30,6 +30,7 @@ Figma is REI's design tool of choice and houses Cedar's UI toolkits. You can use
  
    <cdr-img alt="" :src="$withBase(`/getting-started-for-designers/app-desktop.png`)"/>
  
+ 
  <br />
 
   The Figma desktop app can be accessed using a tool called "Self Service." On a Mac, you can access Self Service by opening your applications folder and navigating to Self Service or opening Spotlight Search and searching for Self Service. In Self Service, search for "Figma" and install. If you need help or have problems installing Figma, please contact REI's IT Help Desk.
